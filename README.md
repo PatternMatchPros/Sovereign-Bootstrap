@@ -179,6 +179,8 @@ curl -I "https://github.com/PatternMatchPros/LOG#readme"
 4. **Update** version log to v1.2
 5. **Commit** with message: "Upgrade to v1.2: Add network verification and LOG integration"
 
+
+
 **Time estimate:** 3 minutes. **Sovereignty gain:** Massive.
 
 ---
@@ -192,3 +194,7 @@ Want to:
 
 The v1.2 upgrade makes your bootstrap **self-validating and network-aware**—exactly what sovereign infrastructure needs.
 
+---
+
+**CANONICAL URL:** This is the only official bootstrap repository: 
+`https://github.com/PatternMatchPros/Sovereign-Bootstrap#readme`
